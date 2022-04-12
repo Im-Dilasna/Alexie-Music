@@ -71,8 +71,8 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/Im-Dilasna/Alexie-Music
+shikhar@MacBook~ $ cd Alexiemusic
 shikhar@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
@@ -85,16 +85,16 @@ shikhar@MacBook~ $ bash start
 > Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
 
 
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
+<img src="https://telegra.ph/file/f330a50cdfc3154cf8ca5.jpg" align="center">
 
 
 ## 🏷 Support
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [GitHub Issues](https://github.com/Im-Dilasna/Alexie-Music/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
+- Contact options listed on [this GitHub profile](https://github.com/Im-Dilasna)
+- [Telegram Support](https://t.me/SlNinjaTeam)
 
 ## 🎗 Project assistance
 
