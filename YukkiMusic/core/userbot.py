@@ -91,12 +91,12 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.one.join_chat("sntTeambots")
-                await self.one.join_chat("Alexiesupport")
-                await self.one.join_chat("SlNinjaTeam")
-                await self.one.join_chat("Alexie_updates")
-                await self.one.join_chat("SinhalaSubcartoon")
-                await self.one.join_chat("MafiaGiveaways")
+                await self.two.join_chat("sntTeambots")
+                await self.two.join_chat("Alexiesupport")
+                await self.two.join_chat("SlNinjaTeam")
+                await self.two.join_chat("Alexie_updates")
+                await self.two.join_chat("SinhalaSubcartoon")
+                await self.two.join_chat("MafiaGiveaways")
             except:
                 pass
             assistants.append(2)
@@ -125,12 +125,12 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.one.join_chat("sntTeambots")
-                await self.one.join_chat("Alexiesupport")
-                await self.one.join_chat("SlNinjaTeam")
-                await self.one.join_chat("Alexie_updates")
-                await self.one.join_chat("SinhalaSubcartoon")
-                await self.one.join_chat("MafiaGiveaways")
+                await self.three.join_chat("sntTeambots")
+                await self.three.join_chat("Alexiesupport")
+                await self.three.join_chat("SlNinjaTeam")
+                await self.three.join_chat("Alexie_updates")
+                await self.three.join_chat("SinhalaSubcartoon")
+                await self.three.join_chat("MafiaGiveaways")
             except:
                 pass
             assistants.append(3)
@@ -159,12 +159,12 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.one.join_chat("sntTeambots")
-                await self.one.join_chat("Alexiesupport")
-                await self.one.join_chat("SlNinjaTeam")
-                await self.one.join_chat("Alexie_updates")
-                await self.one.join_chat("SinhalaSubcartoon")
-                await self.one.join_chat("MafiaGiveaways")
+                await self.four.join_chat("sntTeambots")
+                await self.four.join_chat("Alexiesupport")
+                await self.four.join_chat("SlNinjaTeam")
+                await self.four.join_chat("Alexie_updates")
+                await self.four.join_chat("SinhalaSubcartoon")
+                await self.four.join_chat("MafiaGiveaways")
             except:
                 pass
             assistants.append(4)
@@ -193,12 +193,12 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.one.join_chat("sntTeambots")
-                await self.one.join_chat("Alexiesupport")
-                await self.one.join_chat("SlNinjaTeam")
-                await self.one.join_chat("Alexie_updates")
-                await self.one.join_chat("SinhalaSubcartoon")
-                await self.one.join_chat("MafiaGiveaways")
+                await self.five.join_chat("sntTeambots")
+                await self.five.join_chat("Alexiesupport")
+                await self.five.join_chat("SlNinjaTeam")
+                await self.five.join_chat("Alexie_updates")
+                await self.five.join_chat("SinhalaSubcartoon")
+                await self.five.join_chat("MafiaGiveaways")
             except:
                 pass
             assistants.append(5)
