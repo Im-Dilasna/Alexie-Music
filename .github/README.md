@@ -144,6 +144,8 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
- Special thank Shekhar and  original yukki repo contributors 😊
+ 
+* Special thank Shekhar and  original yukki repo contributors 😊
+ 
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
