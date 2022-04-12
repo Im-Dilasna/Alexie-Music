@@ -57,9 +57,12 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TeamYukki")
-                await self.one.join_chat("TheYukki")
-                await self.one.join_chat("YukkiSupport")
+                await self.one.join_chat("sntTeambots")
+                await self.one.join_chat("Alexiesupport")
+                await self.one.join_chat("SlNinjaTeam")
+                await self.one.join_chat("Alexie_updates")
+                await self.one.join_chat("SinhalaSubcartoon")
+                await self.one.join_chat("MafiaGiveaways")
             except:
                 pass
             assistants.append(1)
